@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...all the things
+- 🌱 I’m currently learning ...swift and js
+- 💬 Ask me about ...whatevs
+- 📫 How to reach me: ...here
+- ⚡ Fun fact: ...ye
+
 <!--
 **domgjohnson/domgjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
